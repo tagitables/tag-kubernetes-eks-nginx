@@ -1,0 +1,2 @@
+NAME                                    READY   STATUS    RESTARTS   AGE
+tag-nginx-deployment-55ddb5ff88-4qlh8   1/1     Running   0          17m

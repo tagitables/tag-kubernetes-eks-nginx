@@ -1,0 +1,2 @@
+NAME                TYPE           CLUSTER-IP      EXTERNAL-IP                                                               PORT(S)        AGE
+tag-nginx-service   LoadBalancer   10.100.59.151   a03dd8a9bed7a4047b02e10116b9b6cb-1153391914.us-east-1.elb.amazonaws.com   80:30692/TCP   21m

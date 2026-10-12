@@ -1,0 +1,19 @@
+# AWS and Kubernetes credentials
+.aws/
+.kube/
+kubeconfig
+*.kubeconfig
+*.pem
+*.key
+
+# Terraform state
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Environment and editor files
+.env
+.env.*
+.vscode/
+.DS_Store
+*.swp
